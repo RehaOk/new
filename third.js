@@ -1,1 +1,1 @@
-console.log('third');
+console.log('deleted as well');
